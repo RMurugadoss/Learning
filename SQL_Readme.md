@@ -1,0 +1,19 @@
+#SQL
+Learning to basic SQL queries (Adventure Works Data Warehouse)
+
+| Adventure Works DW | [https://dataedo.com/samples/html/Data\_warehouse/doc/AdventureWorksDW\_4/modules/Dimensions\_97/module.html](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Dimensions_97/module.html) |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                    |                                                                                                                                                                                                                         |
+| Module No          | Name                                                                                                                                                                                                                    |
+| 1                  | [Dimensions](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Dimensions_97/module.html)                                                                                                  |
+| 2                  | [Finance](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Finance_98/module.html)                                                                                                        |
+| 3                  | [Call Center](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Call_Center_99/module.html)                                                                                                |
+| 4                  | [Inventory](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Inventory_100/module.html)                                                                                                   |
+| 5                  | [Internet Sales](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Internet_Sales_101/module.html)                                                                                         |
+| 6                  | [Sales Quotas](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Sales_Quotas_102/module.html)                                                                                             |
+| 7                  | [Surveys](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Surveys_103/module.html)                                                                                                       |
+| 8                  | [Currency Rates](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Currency_Rates_104/module.html)                                                                                         |
+| 9                  | [Reseller Sales](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Reseller_Sales_105/module.html)                                                                                         |
+| 10                 | [Product Descriptions](https://dataedo.com/samples/html/Data_warehouse/doc/AdventureWorksDW_4/modules/Product_Descriptions_106/module.html)                                                                             |
+|                    |                                                                                                                                                                                                                         |
+| Note          | Take Internet Sales and Reseller Sales, use other dimensions which ever is needed. Go to Activities sheet and do the activity and attach the query + results.                 
